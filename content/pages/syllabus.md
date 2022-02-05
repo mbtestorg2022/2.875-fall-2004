@@ -45,8 +45,45 @@ Course Mechanics
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 1/3 |
-| Project Report | 1/3 |
-| Midterm and Final Presentations | 1/3
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project Report
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm and Final Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
