@@ -8,6 +8,7 @@ description: 'This resource contains the following topics:
   and examples.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/ccd7fd17028fa75457996083cf90f8d2_class_kcs_04.pdf
 file_type: application/pdf
+parent_uid: 937e72c3-cbb3-cec5-1299-89aa24a1787f
 resourcetype: Document
 title: class_kcs_04.pdf
 uid: ccd7fd17-028f-a754-5799-6083cf90f8d2

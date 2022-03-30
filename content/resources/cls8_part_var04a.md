@@ -6,6 +6,7 @@ description: 'This resource gives the information about the following topics:
   dimensioning and tolerancing is all about, and variation buildup in assemblies.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/8badde647439f7a92165d8b8135817d8_cls8_part_var04a.pdf
 file_type: application/pdf
+parent_uid: 937e72c3-cbb3-cec5-1299-89aa24a1787f
 resourcetype: Document
 title: cls8_part_var04a.pdf
 uid: 8badde64-7439-f7a9-2165-d8b8135817d8
